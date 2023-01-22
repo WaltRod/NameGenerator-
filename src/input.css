@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg {
+    background-image: url(./img/thumb-1920-1107324.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.flex {
+    color: white;
+}
+
+.card1 {
+    background-color: #f5f5f5;
+    box-shadow: 0px 10px 20px #000000;
+    padding: 30px;
+    text-align: center;
+}
+.name1 {
+    font-size: 20px;
+    font-weight: bold;    
+}
+
+
+.card2 {
+    background-color: #f5f5f5;
+    box-shadow: 0px 10px 20px #000000;
+    padding: 30px;
+    text-align: center;
+}
+.name2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card3 {
+    background-color: #f5f5f5;
+    box-shadow: 0px 10px 20px #000000;
+    padding: 30px;
+    text-align: center;
+}
+.name3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card4 {
+    background-color: #f5f5f5;
+    box-shadow: 0px 10px 20px #000000;
+    padding: 30px;
+    text-align: center;
+}
+.name4 {
+    font-size: 20px;
+    font-weight: bold;
+}
